@@ -1,0 +1,6 @@
+{
+	name: "Timers",
+	source: "https://github.com/bmddota/barebones/tree/source2",
+	parent: "Barebones(Old)",
+	link: "https://github.com/bmddota/barebones/archive/refs/heads/source2.zip"
+}

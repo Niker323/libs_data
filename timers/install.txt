@@ -1,0 +1,2 @@
+addline@{game}\scripts\vscripts\addon_game_mode.lua@require( 'libraries/timers' )
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\timers.lua@{game}\scripts\vscripts\libraries\timers.lua
