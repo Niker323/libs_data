@@ -1,0 +1,6 @@
+addline@{game}\scripts\vscripts\addon_game_mode.lua@require( 'libraries/animations' )
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\animations.lua@{game}\scripts\vscripts\libraries\animations.lua
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\modifiers\modifier_animation.lua@{game}\scripts\vscripts\libraries\modifiers\modifier_animation.lua
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\modifiers\modifier_animation_translate.lua@{game}\scripts\vscripts\libraries\modifiers\modifier_animation_translate.lua
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\modifiers\modifier_animation_translate_permanent.lua@{game}\scripts\vscripts\libraries\modifiers\modifier_animation_translate_permanent.lua
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\modifiers\modifier_animation_freeze.lua@{game}\scripts\vscripts\libraries\modifiers\modifier_animation_freeze.lua

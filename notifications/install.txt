@@ -1,0 +1,6 @@
+addline@{game}\scripts\vscripts\addon_game_mode.lua@require( 'libraries/notifications' )
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\notifications.lua@{game}\scripts\vscripts\libraries\notifications.lua
+addlineafter@{content}\panorama\layout\custom_game\custom_ui_manifest.xml@<Panel>@<CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/barebones_notifications.xml" />@else@addlineafter@{content}\panorama\layout\custom_game\custom_ui_manifest.xml@<root>@<Panel><CustomUIElement type="Hud" layoutfile="file://{resources}/layout/custom_game/barebones_notifications.xml" /></Panel>
+copy@library\barebones-source2\content\dota_addons\barebones\panorama\layout\custom_game\barebones_notifications.xml@{content}\panorama\layout\custom_game\barebones_notifications.xml
+copy@library\barebones-source2\content\dota_addons\barebones\panorama\scripts\barebones_notifications.js@{content}\panorama\scripts\barebones_notifications.js
+copy@library\barebones-source2\content\dota_addons\barebones\panorama\styles\barebones_notifications.css@{content}\panorama\styles\barebones_notifications.css

@@ -1,0 +1,2 @@
+addline@{game}\scripts\vscripts\addon_game_mode.lua@require( 'libraries/projectiles' )
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\projectiles.lua@{game}\scripts\vscripts\libraries\projectiles.lua

@@ -1,0 +1,2 @@
+addline@{game}\scripts\vscripts\addon_game_mode.lua@require( 'libraries/physics' )
+copy@library\barebones-source2\game\dota_addons\barebones\scripts\vscripts\libraries\physics.lua@{game}\scripts\vscripts\libraries\physics.lua
